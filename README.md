@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheAmix
 - 👀 I’m interested in python
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me t.me/MrTajowb
 
 <!---
